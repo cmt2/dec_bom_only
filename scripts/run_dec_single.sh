@@ -6,7 +6,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=1
-#SBATCH --time=168:00:00
+#SBATCH --time=72:00:00
 #SBATCH --ntasks=1
 
 module load devel/Boost

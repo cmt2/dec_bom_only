@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --partition=shared
+#SBATCH --partition=shared-long
 #SBATCH --threads-per-core=1
 #SBATCH --mem=1024M
 #SBATCH --mail-user=ctribble09@gmail.com
